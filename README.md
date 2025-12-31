@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api
     ?type=waving
     &color=0:0f172a,100:020617
-    &height=280
+    &height=260
     &section=header
     &text=Meet%20Upadhyay
-    &fontSize=46
+    &fontSize=44
     &fontColor=e5e7eb
-    &textAlignY=32
+    &textAlignY=35
     &desc=Full-Stack%20Developer
-    &descAlignY=72" />
+    &descAlignY=68" />
 </p>
 
 
