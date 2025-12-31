@@ -1,6 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=200&section=header&text=Meet%20Upadhyay&fontSize=42&fontColor=e5e7eb&desc=Full-Stack%20Developer&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api
+    ?type=waving
+    &color=0:0f172a,100:020617
+    &height=280
+    &section=header
+    &text=Meet%20Upadhyay
+    &fontSize=46
+    &fontColor=e5e7eb
+    &textAlignY=32
+    &desc=Full-Stack%20Developer
+    &descAlignY=72" />
 </p>
+
 
 <h3 align="center">Full-Stack Developer | Modern Web Applications</h3>
 
