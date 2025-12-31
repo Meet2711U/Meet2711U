@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:020617&height=160&section=header&text=Meet%20Upadhyay&fontSize=44&fontColor=f5f3ff&textAlignY=22&desc=Full-Stack%20Developer&descAlignY=72&descColor=c4b5fd" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:111827&height=260&section=header&text=Meet%20Upadhyay&fontSize=44&fontColor=f8fafc&textAlignY=15&desc=Full-Stack%20Developer&descAlignY=60&descColor=94a3b8" />
 </p>
+
 
 <h3 align="center">Full-Stack Developer | Modern Web Applications</h3>
 
