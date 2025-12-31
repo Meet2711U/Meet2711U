@@ -59,7 +59,7 @@ Event scheduling and notification system
   <a href="https://linkedin.com/in/meetupadhyay18">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:meetupadhyay158@email.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
   <a href="https://github.com/Meet2711U">
